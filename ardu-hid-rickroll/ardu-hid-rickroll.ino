@@ -20,7 +20,7 @@ void setup() {
  delay(100);
  pressEnter();
  delay(500);
- Keyboard.print("firefox https://www.youtube.com/watch?v=dQw4w9WgXcQ");
+ Keyboard.print("firefox https://www.youtube.com/watch?v=dQw4w9WgXcQ"); //Замените firefox на chrome/opera/ваш другой браузер
  delay(100);
  pressEnter();
 }
